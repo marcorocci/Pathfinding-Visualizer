@@ -1,4 +1,4 @@
-##Pathfinding Visualizer
+## Pathfinding Visualizer
 Visualizing the shortest path of nodes from start node to end node. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
